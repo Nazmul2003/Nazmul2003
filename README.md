@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazmul2003
 - 👀 I’m interested in Electronics (both Analog and Digital domain)
-- 🌱 I’m currently learning Programming in VHDL
+- 🌱 I’m currently learning Programming in Verilog and VHDL and also I'm learning PLC Programming
 - 💞️ I’m looking to collaborate on electronics projects
 - 📫 How to reach me –> mail: sknazmulhaque2003@gmail.com / telegram username: @tGotU
 
